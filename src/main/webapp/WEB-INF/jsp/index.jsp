@@ -28,7 +28,7 @@
 </div>
 <div>
     <a href="/download" class="btn btn-primary btn-mini">Download Xml file</a>
-    <a href="/download" class="btn btn-primary btn-mini">Upload new Xml file</a>
+    <a href="/welcome" class="btn btn-primary btn-mini">Upload new Xml file</a>
 </div>
 
 
