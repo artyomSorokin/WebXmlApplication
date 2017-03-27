@@ -44,9 +44,7 @@ public class AppController {
 
         String message = "";
 
-        if (file.isEmpty()) {
-            message = "Please select a file to upload";
-            session.setAttribute("message", message);
+        if (file.isEmpty()) {            
             return "/upload";
         }
         File dir = new File(UPLOADED_FOLDER);
